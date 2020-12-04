@@ -20,6 +20,8 @@
 
 remote_theme: samarsault/plainwhite-jekyll
 
+show_excerpts: true
+
 plainwhite:
   name: Andres Morales
   portfolio_image: "assets/me_light.png"
