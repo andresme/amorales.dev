@@ -4,7 +4,6 @@ title:  "Welcome to My Blog!"
 date:   2020-12-04 09:46:21 -0600
 categories: personal
 ---
-# Intro
 
 Hello everyone! I'm Andres Morales, a Software Development Engineer working for Amazon (San José, Costa Rica). My current areas of interest are Computer Engineering,  Software Architecture, and Artificial Intelligence. I also enjoy playing and creating games, playing the piano, and listening to music.
 
