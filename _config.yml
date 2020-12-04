@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: plainwhite
+remote_theme: samarsault/plainwhite-jekyll
 
 plainwhite:
   name: Andres Morales
